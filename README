@@ -1,4 +1,4 @@
-RESTful API implementation in PHP
+#RESTful API implementation in PHP
 
 Access to the API data: /RESTinPHP/product/read.php
 Add a new record: /RESTinPHP/product/create.php
