@@ -1,8 +1,0 @@
-RewriteEngine On
-RewriteRule ^company/?$ company.php [NC,L]
-RewriteRule ^company/([0-9]+)/?$ company.php?id=$1 [NC,L]
-
-#AuthType Basic
-#AuthName "REST Login"
-#AuthUserFile .htpasswd
-#require valid-user
