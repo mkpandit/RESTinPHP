@@ -1,3 +1,5 @@
 RESTful API implementation in PHP
 
-Access to the API data: /RESTinPHP/v1/company
+Access to the API data: /RESTinPHP/product/read.php
+Add a new record: /RESTinPHP/product/create.php
+Delete a record: /RESTinPHP/product/delete.php
